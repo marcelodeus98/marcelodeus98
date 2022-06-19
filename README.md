@@ -40,9 +40,10 @@
   </a>
 </div>
 
-## Meu conjunto de habilidades a quais estou desenvolvendo
- 
- <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+### Cojunto de linguagens 
+
+<div align="center">
+  <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
  <img title="Html" alt="Html" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
  <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
  <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
@@ -51,3 +52,10 @@
  <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
  <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
  <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+</div>
+
+### Snake animation
+
+<br clear="both">
+
+![Animação de cobra](https://github.com/marcelodeus98/blob/output/github-contribution-grid-snake.svg)
