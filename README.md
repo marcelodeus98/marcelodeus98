@@ -15,7 +15,7 @@
 
 
 <p align="left"> (💬) => return { - Se penso, logo existo, e se existo, logo penso!
-Já como pessoa, meu desafior maior está sendo adquirir meu próprio entendimento do EU como indivíduo ( auto conhecimento ), e meu papel como ser humano dentro da sociedade, o que fazer para contribuir para o mundo e que frutos vou deixar para as outras pessoas.}</p>
+Já como pessoa, meu desafio está sendo adquirir meu próprio entendimento do EU como indivíduo ( auto conhecimento ), e meu papel como ser humano dentro da sociedade, o que fazer para contribuir para o mundo e que frutos vou deixar para as outras pessoas.}</p>
 
 ### Atuais estatísticas minha
 
