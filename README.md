@@ -11,10 +11,10 @@
 <p align="left"> (📚) => return { - Me encontro estudando programação web, fascinado pela praticidade e usabilidade do Javascript em diferentes ambientes, tem sido meu maior objetivo de aprendizagem no início, principalmente por a priori, está me desenvolvendo na parte do frontend, porém o qual realmente não é meu foco, pois tenho interesse em trabalhar em todo o desenvolvimento de uma sistema, desde a sua parte de inteação com o cliente, como o consumo de API's e as regras de negócio do mesmo.}</p>
 
 
-<p align="left"> (🤔) => return { Estou procurando ajuda com formas de melhorar meu raciocinio lógico e matemático, para consegui assim apliar minha capacidade de resolução de problemas, além de consolidar uma boa base com conhecimentos de arquitetura de software e bons padrões de programação!}</p>
+<p align="left"> (🤔) => return { Estou em busca de formas para melhorar meu raciocinio lógico,computacional  e matemático, para consegui assim ampliar minha capacidade de resolução de problemas, além de consolidar uma boa base com conhecimentos de arquitetura de software e bons padrões de programação!}</p>
 
 
-<p align="left"> (💬) => return { - Se penso, logo existo, e se existo, logo penso!<br>Já como pessoa, meu maior desafio está sendo adquirir meu prórprio entendimento oo EU como pessoa ( auto conhecimento ), e meu papel como ser humano dentro da sociedade, o que fazer para contribuir para o mundo e que frutos vou deixar para as outras pessoas.}</p>
+<p align="left"> (💬) => return { - Se penso, logo existo, e se existo, logo penso!<br>Já como pessoa, meu desafior maior está sendo adquirir meu próprio entendimento do EU como indivíduo ( auto conhecimento ), e meu papel como ser humano dentro da sociedade, o que fazer para contribuir para o mundo e que frutos vou deixar para as outras pessoas.}</p>
 
 ### Atuais estatísticas minha
 
