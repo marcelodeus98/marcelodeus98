@@ -54,8 +54,3 @@
  <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
 </div>
 
-### Snake animation
-
-<br clear="both">
-
-![Animação de cobra](https://github.com/marcelodeus98/output/github-contribution-grid-snake.svg)
