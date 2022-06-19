@@ -58,4 +58,4 @@
 
 <br clear="both">
 
-![Animação de cobra](https://github.com/marcelodeus98/blob/output/github-contribution-grid-snake.svg)
+![Animação de cobra](https://github.com/marcelodeus98/output/github-contribution-grid-snake.svg)
