@@ -1,7 +1,7 @@
 <h1 align="center">Hi, seja bem vindo, eu sou o João Marcelo 👋</h1>
 
 
-<h3 align="center">Sou um analista e desenvolvedor de sistemas em formação - 2020/2023!</h3>
+<h3 align="center">Sou um analista e desenvolvedor de sistemas em formação - 2023/2025!</h3>
 
 ### Um pouco sobre mim 
 
