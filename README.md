@@ -1,14 +1,14 @@
 <h1 align="center">Hi, seja bem vindo, eu sou o João Marcelo 👋</h1>
 
 
-<h3 align="center">Sou um analista e desenvolvedor de sistemas em formação - 2023/2025!</h3>
+<h3 align="center">Sou um analista e desenvolvedor de sistemas em formação - 2024/2026!</h3>
 
 ### Um pouco sobre mim 
 
-<p align="left"> (💻) => return { - Atualmente estou estagiando no setor de TI, na empresa Moda Colmeia, uma empresa do segmento de moda feminina, pego mais uma parte de suporte técnico com atendimento de nível 1 e algumas demandas de nível 2, porém tenho tentando incrementa automatizações em alguns serviços, e através disso consegui levantar um projeto que está em desenvolvimento, um sistema de estoque para o setor da TI, e um outro para agendamentoos de sala para reuniões ou treinamentos.}</p>
+<p align="left"> (💻) => return { - Atualmente atuo como analista de sistemas e redes Jr, em um provedor de internet, uma empresa voltada para telecomunicações, onde como um homem de um exército só, sou o responsável pelo Centro de Operações de Rede ( NOC ), a qual sou responsável por garantir e prevenir erros e problemas que podem ocorrer na rede, como gerenciar os sistemas a qual é usado na empresa, como o gerenciamento dos servidores, e toda a TI da empresa }</p>
 
 
-<p align="left"> (📚) => return { - Me encontro estudando programação web, fascinado pela praticidade e usabilidade do Javascript em diferentes ambientes, tem sido meu maior objetivo de aprendizagem no início, principalmente por a priori, está me desenvolvendo na parte do frontend, porém o qual realmente não é meu foco, pois tenho interesse em trabalhar em todo o desenvolvimento de uma sistema, desde a sua parte de inteação com o cliente, como o consumo de API's e as regras de negócio do mesmo.}</p>
+<p align="left"> (📚) => return { - Meu foco em estudo sempre foi voltado para programação web, fascinado pela praticidade e usabilidade do Javascript em diferentes ambientes, tem sido a linguagem usada como ferramenta de aprendizagem, mas também desenvolvimento de alguns projetos e serviços para clientes. Apesar de desenvolver dá parte do cliente, o famoso frontend, é o backend, que me cativa, com o consumo e desenvolvimento de APIs e a complexidade da resolução de problemas, é onde realmente fica toda a engrenagem de um sistema, as suas regras de négocio.}</p>
 
 
 <p align="left"> (🤔) => return { Estou em busca de formas para melhorar meu raciocinio lógico,computacional  e matemático, para consegui assim ampliar minha capacidade de resolução de problemas, além de consolidar uma boa base com conhecimentos de arquitetura de software e bons padrões de programação!}</p>
