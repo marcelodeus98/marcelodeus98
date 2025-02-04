@@ -21,7 +21,7 @@ Já como pessoa, meu desafio está sendo adquirir meu próprio entendimento do E
 
 <div align="center">
   <a href="https://github.com/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pulls?username=marcelodeus98&show_icons=true&theme=persian"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelodeus98&show_icons=true&theme=persian&include_all_commits=true&count_private=true&hide=stars&count_private=true&hide_title=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodeus98&layout=compact&langs_count=12&theme=persian"/>
   </a> 
 </div>
