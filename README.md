@@ -42,7 +42,7 @@ Já como pessoa, meu desafio está sendo adquirir meu próprio entendimento do E
   </a>
 </div>
 
-### Cojunto de linguagens 
+### Cojunto de linguagens e ferramentas
 
 <div align="center">
   <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
