@@ -51,7 +51,7 @@ Já como pessoa, meu desafio está sendo adquirir meu próprio entendimento do E
   <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
   <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
   <img title="Node" alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-  <img alt="Python" title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+  <img alt="Ruby on Rails" title="Rails" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rails/rails.png">
   <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
   <img title="mysql" alt="mysql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
   <img title="mongodb" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
