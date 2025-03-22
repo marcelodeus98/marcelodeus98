@@ -26,7 +26,9 @@ Já como pessoa, meu desafio está sendo adquirir meu próprio entendimento do E
 
 ## Streak de Contribuições
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelodeus98&theme=merko"/>
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelodeus98&theme=merko"/>
+</div>
 
 ### Minhas redes sociais, dá uma conferida lá!
 
