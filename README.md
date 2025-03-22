@@ -20,8 +20,8 @@ Já como pessoa, meu desafio está sendo adquirir meu próprio entendimento do E
 ### Atuais estatísticas minha
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelodeus98&show_icons=true&theme=persian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodeus98&layout=compact&langs_count=12&theme=persian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelodeus98&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodeus98&layout=compact&langs_count=12&theme=merko"/>
 </div>
 
 ## Streak de Contribuições
