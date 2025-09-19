@@ -5,7 +5,7 @@
 
 ### Um pouco sobre mim 
 
-<p align="left"> (💻) => return { - Atualmente atuo como analista de sistemas e redes Jr, em um provedor de internet, uma empresa voltada para telecomunicações, onde como um homem de um exército só, sou o responsável pelo Centro de Operações de Rede ( NOC ), a qual sou responsável por garantir e prevenir erros e problemas que podem ocorrer na rede, como gerenciar os sistemas a qual é usado na empresa, como o gerenciamento dos servidores, e toda a TI da empresa }</p>
+<p align="left"> (💻) => return { - Atualmente atuo como analista de sistemas e redees, em um provedor de internet, uma empresa voltada para telecomunicações, onde como um homem de um exército só, sou o responsável pelo Centro de Operações de Rede ( NOC ), a qual sou responsável por garantir e prevenir erros e problemas que podem ocorrer na rede, como gerenciar os sistemas a qual é usado na empresa, como o gerenciamento dos servidores, e toda a TI da empresa }</p>
 
 
 <p align="left"> (📚) => return { - Meu foco em estudo sempre foi voltado para programação web, fascinado pela praticidade e usabilidade do Javascript em diferentes ambientes, tem sido a linguagem usada como ferramenta de aprendizagem, mas também desenvolvimento de alguns projetos e serviços para clientes. Apesar de desenvolver dá parte do cliente, o famoso frontend, é o backend, que me cativa, com o consumo e desenvolvimento de APIs e a complexidade da resolução de problemas, é onde realmente fica toda a engrenagem de um sistema, as suas regras de négocio.}</p>
