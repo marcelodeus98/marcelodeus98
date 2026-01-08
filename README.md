@@ -17,7 +17,7 @@
 <p align="left"> (💬) => return { - Se penso, logo existo, e se existo, logo penso!
 Já como pessoa, meu desafio está sendo adquirir meu próprio entendimento do EU como indivíduo ( auto conhecimento ), e meu papel como ser humano dentro da sociedade, o que fazer para contribuir para o mundo e que frutos vou deixar para as outras pessoas.}</p>
 
-### Atuais estatísticas minha
+## Atuais estatísticas minha
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelodeus98&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
