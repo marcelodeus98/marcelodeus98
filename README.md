@@ -31,7 +31,7 @@ Já como pessoa, meu desafio está sendo adquirir meu próprio entendimento do E
 </div>
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  [![Rio de linguagens](https://github-timeline.frangolab.com/embed/marcelodeus98/linguagens.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/marcelodeus98?lang=pt-BR)
+  <img height="180em" src="https://github-timeline.frangolab.com/embed/marcelodeus98/linguagens.svg?lang=pt-BR"/>
 </div>
 
 ### Minhas redes sociais, dá uma conferida lá!
