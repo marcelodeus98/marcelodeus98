@@ -20,14 +20,18 @@ Já como pessoa, meu desafio está sendo adquirir meu próprio entendimento do E
 ## Atuais estatísticas minha
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelodeus98&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodeus98&layout=compact&langs_count=12&theme=merko"/>
+  https://github-timeline.frangolab.com/embed/marcelodeus98/trilha.svg
 </div>
+
 
 ## Streak de Contribuições
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelodeus98&theme=merko"/>
+</div>
+
+<div align="center" style="display: flex; justify-content: space-between;">
+  [![Rio de linguagens](https://github-timeline.frangolab.com/embed/marcelodeus98/linguagens.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/marcelodeus98?lang=pt-BR)
 </div>
 
 ### Minhas redes sociais, dá uma conferida lá!
