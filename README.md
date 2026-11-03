@@ -20,7 +20,7 @@ Já como pessoa, meu desafio está sendo adquirir meu próprio entendimento do E
 ## Atuais estatísticas minha
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  https://github-timeline.frangolab.com/embed/marcelodeus98/trilha.svg
+  <img height="180em" src="https://github-timeline.frangolab.com/embed/marcelodeus98/trilha.svg"/>
 </div>
 
 
